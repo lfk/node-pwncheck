@@ -19,8 +19,11 @@
     "haveibeenpwned",
     "password"
   ],
-  "author": "Lars Fredrik Karlström",
-  "license": "ISC",
+  "author": {
+    "name": "Lars Fredrik Karlström",
+    "email": "cbsmth@gmail.com"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lfk/node-pwncheck/issues"
   },
