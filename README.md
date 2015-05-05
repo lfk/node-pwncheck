@@ -43,7 +43,7 @@ Please refer to `examples/example.js` for a fully functional demonstration.
 Demo application
 ----------------
 
-* `node examples/example.js`
+* `$ node examples/example.js`
 * Visit http://localhost:8080/
 
 
@@ -69,6 +69,6 @@ License
 
 Distributed under the [MIT License][license].
 
-[hibp]: https://haveibenpwned.com
+[hibp]: https://haveibeenpwned.com
 [troyhunt]: http://www.troyhunt.com
 [license]: https://github.com/lfk/node-pwncheck/blob/master/LICENSE
