@@ -1,0 +1,36 @@
+{
+  "name": "pwncheck",
+  "version": "0.0.1",
+  "description": "A straightforward API wrapper for the Have I Been Pwned? service, which aggregates information from publicly leaked security breaches.",
+  "main": "lib/pwncheck.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lfk/node-pwncheck.git"
+  },
+  "keywords": [
+    "security",
+    "haveibeenpwned",
+    "password"
+  ],
+  "author": "Lars Fredrik Karlström",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfk/node-pwncheck/issues"
+  },
+  "homepage": "https://github.com/lfk/node-pwncheck",
+  "dependencies": {
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "bluebird": "^2.9.25",
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
